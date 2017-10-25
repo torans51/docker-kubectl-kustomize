@@ -1,3 +1,3 @@
 #Docker-kubectl
 
-Minimal docker image containing bash and kubectl. nothing more, nothing less
+Minimal docker image containing bash, kubectl & gettext. nothing more, nothing less
