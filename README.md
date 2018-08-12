@@ -2,6 +2,30 @@
 
 Minimal docker image containing bash, kubectl & gettext. nothing more, nothing less
 
+# 1.11.2
+
+- Bumped kubectl to 1.11.2
+
+# 1.11.1
+
+- Bumped kubectl to 1.11.1
+
+# 1.11.0
+
+- Bumped kubectl to 1.11.0
+
+# 1.9.10
+
+- Bumped kubectl to 1.9.10
+
+# 1.9.9
+
+- Bumped kubectl to 1.9.9
+
+# 1.9.8
+
+- Bumped kubectl to 1.9.7
+
 # 1.9.7
 
 - Bumped kubectl to 1.9.7
